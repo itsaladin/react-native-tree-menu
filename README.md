@@ -79,7 +79,7 @@ const dataSet = [
 ];
 const [data, setData] = useState(dataSet);
 
-<TreeMenuView color="tomato" />;
+<MenuTree data={data} setData={setData} />;
 ```
 
 ## Contributing
