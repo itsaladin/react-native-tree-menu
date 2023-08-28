@@ -10,10 +10,10 @@ React Native menu tree for nested menu or nested dropdown with selection box.
      <td>Check all of second options</td>
      <td>Uncheck all option</td>
   </tr>
-  <tr>
-    <td><img src="./screenshots/1.png" width=270 height=480></td>
-    <td><img src="./screenshots/2.png" width=270 height=480></td>
-    <td><img src="./screenshots/3.png" width=270 height=480></td>
+  <tr> 
+    <td>![screen1](./screenshots/1.png)</td>
+    <td>![screen1](./screenshots/2.png)</td>
+    <td>![screen1](./screenshots/3.png)</td> 
   </tr>
  </table>
 
