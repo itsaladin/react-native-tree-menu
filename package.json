@@ -1,6 +1,6 @@
 {
   "name": "@itsaladin/react-native-tree-menu",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "React Native menu tree for nested menu or nested dropdown with selection box.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
