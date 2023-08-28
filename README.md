@@ -17,9 +17,9 @@ React Native menu tree for nested menu or nested dropdown with selection box.
   </tr>
  </table> -->
 
-| Check all options           | Check all of second options    | Uncheck all option              |
-| --------------------------- | ------------------------------ | ------------------------------- |
-| ![all](./screenshots/1.png) | ![second](./screenshots/2.png) | ![Uncheck](./screenshots/3.png) |
+| Check all options                    | Check all of second options             | Uncheck all option                       |
+| ------------------------------------ | --------------------------------------- | ---------------------------------------- |
+| ![all](./screenshots/1.png?raw=true) | ![second](./screenshots/2.png?raw=true) | ![Uncheck](./screenshots/3.png?raw=true) |
 
 ### Install Peer Dependencies
 
