@@ -30,19 +30,21 @@ Cherag UI uses `reaact-native-vector-icons` for icons. You must install it and c
 Using Yarn:
 
 ```sh
-yarn add react-native-tree-menu
+yarn add @itsaladin/react-native-tree-menu
 ```
 
 Using NPM:
 
 ```sh
-npm install react-native-tree-menu
+npm install @itsaladin/react-native-tree-menu
 ```
 
 ## Usage
 
 ```js
-import { TreeMenuView } from 'react-native-tree-menu';
+import React, { useState } from 'react';
+import { StyleSheet, View } from 'react-native';
+import { MenuTree } from '@itsaladin/react-native-tree-menu';
 
 const dataSet = [
   {
@@ -96,9 +98,16 @@ const dataSet = [
     ],
   },
 ];
-const [data, setData] = useState(dataSet);
 
-<MenuTree data={data} setData={setData} />;
+const App = () => {
+  const [data, setData] = useState(dataSet);
+
+  return (
+    <View>
+      <MenuTree data={data} setData={setData} />
+    </View>
+  );
+};
 ```
 
 ## Contributing

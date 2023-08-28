@@ -141,7 +141,7 @@ const MenuTree = ({ data, setData }: any) => {
               }}
               name={allCheck ? 'checkbox-outline' : 'checkbox-blank-outline'}
               size={30}
-              color="green"
+              color={allCheck ? 'green' : 'gray'}
             />
             <Text>Check / Uncheck ALL</Text>
           </View>
@@ -159,7 +159,7 @@ const MenuTree = ({ data, setData }: any) => {
                       : 'checkbox-blank-outline'
                   }
                   size={30}
-                  color="green"
+                  color={layerOneItem?.checked ? 'green' : 'gray'}
                 />
                 <TouchableOpacity
                   onPress={() => {
@@ -192,7 +192,7 @@ const MenuTree = ({ data, setData }: any) => {
                                 : 'checkbox-blank-outline'
                             }
                             size={30}
-                            color="green"
+                            color={layerTowItem?.checked ? 'green' : 'gray'}
                           />
 
                           <TouchableOpacity
@@ -230,7 +230,11 @@ const MenuTree = ({ data, setData }: any) => {
                                         : 'checkbox-blank-outline'
                                     }
                                     size={30}
-                                    color="green"
+                                    color={
+                                      layerThereeItem?.checked
+                                        ? 'green'
+                                        : 'gray'
+                                    }
                                   />
 
                                   <TouchableOpacity
