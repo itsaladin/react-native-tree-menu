@@ -2,6 +2,21 @@
 
 React Native menu tree for nested menu or nested dropdown with selection box.
 
+#### React/React Native App Screenshots
+
+<table>
+  <tr>
+    <td>Check all options</td>
+     <td>Check all of second options</td>
+     <td>Uncheck all option</td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/1.png" width=270 height=480></td>
+    <td><img src="./screenshots/2.png" width=270 height=480></td>
+    <td><img src="./screenshots/3.png" width=270 height=480></td>
+  </tr>
+ </table>
+
 ### Install Peer Dependencies
 
 Cherag UI uses `reaact-native-vector-icons` for icons. You must install it and configure it for your project. See its [documentation](https://github.com/oblador/react-native-vector-icons#installation) for more information about setting it up for Android, IOS or Web.
