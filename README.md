@@ -6,14 +6,15 @@ React Native menu tree for nested menu or nested dropdown with selection box.
 
 <table>
   <tr>
-    <td>Check all options</td>
-     <td>Check all of second options</td>
      <td>Uncheck all option</td>
+    <td>Check all options</td>
+     <td>Check single options</td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/itsaladin/react-native-tree-menu/main/screenshots/1.png?token=GHSAT0AAAAAACCG26XHS4PLP2VIX45TFH3SZHN7DIA" width="320"/></td>
-    <td><img src="https://raw.githubusercontent.com/itsaladin/react-native-tree-menu/main/screenshots/2.png?token=GHSAT0AAAAAACCG26XH3EDEIVTQXUUU4SX4ZHN7FHQ" width="320"/></td>
     <td><img src="https://raw.githubusercontent.com/itsaladin/react-native-tree-menu/main/screenshots/3.png?token=GHSAT0AAAAAACCG26XG6ADKAGQUGNCCNHUEZHN7GJA" width="320"/></td>
+    <td><img src="https://raw.githubusercontent.com/itsaladin/react-native-tree-menu/main/screenshots/1.png?token=GHSAT0AAAAAACCG26XG2LW4YHQUKI6LMLXCZHN7LIA" width="320"/></td>
+    <td><img src="https://raw.githubusercontent.com/itsaladin/react-native-tree-menu/main/screenshots/2.png?token=GHSAT0AAAAAACCG26XGCNJS4Q2ARG53SO2AZHN7LXA" width="320"/></td>
+    
   </tr>
  </table>
 
