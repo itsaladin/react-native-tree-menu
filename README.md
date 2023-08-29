@@ -11,9 +11,9 @@ React Native menu tree for nested menu or nested dropdown with selection box.
      <td>Check single options</td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/itsaladin/react-native-tree-menu/main/screenshots/3.png?token=GHSAT0AAAAAACCG26XG6ADKAGQUGNCCNHUEZHN7GJA" width="320"/></td>
-    <td><img src="https://raw.githubusercontent.com/itsaladin/react-native-tree-menu/main/screenshots/1.png?token=GHSAT0AAAAAACCG26XG2LW4YHQUKI6LMLXCZHN7LIA" width="320"/></td>
-    <td><img src="https://raw.githubusercontent.com/itsaladin/react-native-tree-menu/main/screenshots/2.png?token=GHSAT0AAAAAACCG26XGCNJS4Q2ARG53SO2AZHN7LXA" width="320"/></td>
+    <td><img src="https://raw.githubusercontent.com/itsaladin/react-native-tree-menu/main/screenshots/3.png?token=GHSAT0AAAAAACCG26XGOV7B67VQY6UUILVCZHN7UAA" width="250"/></td>
+    <td><img src="https://raw.githubusercontent.com/itsaladin/react-native-tree-menu/main/screenshots/1.png?token=GHSAT0AAAAAACCG26XHISGUM565NQ54X7W2ZHN7SOA" width="250"/></td>
+    <td><img src="https://raw.githubusercontent.com/itsaladin/react-native-tree-menu/main/screenshots/2.png?token=GHSAT0AAAAAACCG26XGGXAF6D2YW6SV7TZQZHN7TJA" width="250"/></td>
     
   </tr>
  </table>
