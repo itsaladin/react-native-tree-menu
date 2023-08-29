@@ -4,24 +4,18 @@ React Native menu tree for nested menu or nested dropdown with selection box.
 
 #### React/React Native App Screenshots
 
-<!-- <table>
+<table>
   <tr>
     <td>Check all options</td>
      <td>Check all of second options</td>
      <td>Uncheck all option</td>
   </tr>
   <tr>
-    <td>![screenshots](./screenshots/1.png)</td>
-    <td>![screenshots](./screenshots/2.png)</td>
-    <td>![screenshots](./screenshots/3.png)</td>
+    <td><img src="https://raw.githubusercontent.com/itsaladin/react-native-tree-menu/main/screenshots/1.png?token=GHSAT0AAAAAACCG26XHS4PLP2VIX45TFH3SZHN7DIA" width="320"/></td>
+    <td><img src="https://raw.githubusercontent.com/itsaladin/react-native-tree-menu/main/screenshots/2.png?token=GHSAT0AAAAAACCG26XH3EDEIVTQXUUU4SX4ZHN7FHQ" width="320"/></td>
+    <td><img src="https://raw.githubusercontent.com/itsaladin/react-native-tree-menu/main/screenshots/3.png?token=GHSAT0AAAAAACCG26XG6ADKAGQUGNCCNHUEZHN7GJA" width="320"/></td>
   </tr>
- </table> -->
-
-| Check all options                   | Check all of second options            | Uncheck all option                      |
-| ----------------------------------- | -------------------------------------- | --------------------------------------- |
-| ![all](/screenshots/1.png?raw=true) | ![second](/screenshots/2.png?raw=true) | ![Uncheck](/screenshots/3.png?raw=true) |
-
-![test](./screenshots/1.png?raw=true)
+ </table>
 
 ### Install Peer Dependencies
 
