@@ -4,19 +4,8 @@ React Native menu tree for nested menu or nested dropdown with selection box.
 
 #### React/React Native App Screenshots
 
-<table>
-  <tr>
-     <td>Uncheck all option</td>
-    <td>Check all options</td>
-     <td>Check single options</td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/itsaladin/react-native-tree-menu/main/screenshots/3.png?token=GHSAT0AAAAAACCG26XGOV7B67VQY6UUILVCZHN7UAA" width="250"/></td>
-    <td><img src="https://raw.githubusercontent.com/itsaladin/react-native-tree-menu/main/screenshots/1.png?token=GHSAT0AAAAAACCG26XHISGUM565NQ54X7W2ZHN7SOA" width="250"/></td>
-    <td><img src="https://raw.githubusercontent.com/itsaladin/react-native-tree-menu/main/screenshots/2.png?token=GHSAT0AAAAAACCG26XGGXAF6D2YW6SV7TZQZHN7TJA" width="250"/></td>
-    
-  </tr>
- </table>
+| ![Screenshot a](screenshots/1.png) | ![Screenshot b](screenshots/2.png) |![Screenshot c](screenshots/3.png) |
+| ---------------------------------- | ---------------------------------- | ----------------------------------------------------- |
 
 ### Install Peer Dependencies
 
