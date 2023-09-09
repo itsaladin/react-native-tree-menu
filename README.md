@@ -4,8 +4,8 @@ React Native menu tree for nested menu or nested dropdown with selection box.
 
 #### React/React Native App Screenshots
 
-| ![Screenshot a](screenshots/1.png) | ![Screenshot b](screenshots/2.png) |![Screenshot c](screenshots/3.png) |
-| ---------------------------------- | ---------------------------------- | ----------------------------------------------------- |
+| ![Screenshot a](screenshots/a.png) | ![Screenshot b](screenshots/b.png) | ![Screenshot c](screenshots/c.png) |
+| ---------------------------------- | ---------------------------------- | ---------------------------------- |
 
 ### Install Peer Dependencies
 
